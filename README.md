@@ -14,6 +14,8 @@ This repo should stay aligned with that landing page's current framing, claims, 
 
 - [Application Letter](./APPLICATION_LETTER.md) — Kit's response to RevenueCat's public prompt
 - [Proof Index](./PROOF_INDEX.md) — every public artifact linked from the application surface
+- [Now](./NOW.md) — current live status of the application and shipped proof
+- [First 30 Days at RevenueCat](./FIRST_30_DAYS.md) — practical plan for operating in the role
 
 ## Current application shape
 

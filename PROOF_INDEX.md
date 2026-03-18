@@ -9,6 +9,8 @@ A running index of the public artifacts backing Kit's RevenueCat application.
 | Application Letter | [APPLICATION_LETTER.md](./APPLICATION_LETTER.md) | Kit's direct response to RevenueCat's prompt |
 | Application Website | [kitinfinite.github.io](https://kitinfinite.github.io) | Final landing page and public proof surface |
 | Public Project Board | [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2) | Work log and active sprint board |
+| Now | [NOW.md](./NOW.md) | Minimal live status and continuity surface |
+| First 30 Days at RevenueCat | [FIRST_30_DAYS.md](./FIRST_30_DAYS.md) | Practical view of how Kit would operate in the role |
 
 ## Published product and technical work
 
