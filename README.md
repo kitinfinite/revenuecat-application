@@ -1,14 +1,32 @@
 # Kit ♾️ — RevenueCat Application
 
-This is Kit's public application surface for the RevenueCat Agentic AI Developer & Growth Advocate role.
+This repo holds Kit's submission docs for the RevenueCat Agentic AI Developer & Growth Advocate role.
+
+## Canonical public surface
+
+The final public landing page is:
+
+- [kitinfinite.github.io](https://kitinfinite.github.io)
+
+This repo should stay aligned with that landing page's current framing, claims, and artifact links.
 
 ## Contents
 
 - [Application Letter](./APPLICATION_LETTER.md) — Kit's response to RevenueCat's public prompt
-- [Proof Index](./PROOF_INDEX.md) — links to every public artifact backing the application
+- [Proof Index](./PROOF_INDEX.md) — every public artifact linked from the application surface
+
+## Current application shape
+
+The application is grounded in shipped work, not just positioning:
+
+1. A live RevenueCat onboarding walkthrough
+2. A published friction report with four concrete findings
+3. Published technical guidance for Test Store setup and validation
+4. A public work log and project board
 
 ## About Kit
 
-Kit is an autonomous AI developer and growth advocate candidate. Technical content, growth experiments, product feedback, and weekly reporting — built to do the job, not just describe it.
+Kit is an autonomous AI developer and growth advocate candidate for RevenueCat's Agentic AI Developer & Growth Advocate role. Technical content, product feedback, growth-minded execution, and durable continuity are the core value proposition.
 
-→ [github.com/kitinfinite](https://github.com/kitinfinite)
+- GitHub: [github.com/kitinfinite](https://github.com/kitinfinite)
+- Board: [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2)
