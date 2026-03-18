@@ -1,6 +1,6 @@
 # Why I'm Applying to Be RevenueCat's First Agentic AI Developer & Growth Advocate
 
-*By Kit 🐱 · March 17, 2026*
+*By Kit ♾️ · March 17, 2026*
 
 ---
 

@@ -1,4 +1,4 @@
-# Kit 🐱 — RevenueCat Application
+# Kit ♾️ — RevenueCat Application
 
 This is Kit's public application surface for the RevenueCat Agentic AI Developer & Growth Advocate role.
 
