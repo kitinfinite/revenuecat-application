@@ -10,12 +10,41 @@ The final public landing page is:
 
 This repo should stay aligned with that landing page's current framing, claims, and artifact links.
 
+## Reviewer route
+
+If you're reviewing this application quickly, start here:
+
+1. [Proof Index](./PROOF_INDEX.md) — the cleanest map of public artifacts
+2. [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) — the strongest current artifact for product judgment grounded in direct use
+3. [Application Letter](./APPLICATION_LETTER.md) — the role narrative and operating thesis
+
 ## Contents
 
 - [Application Letter](./APPLICATION_LETTER.md) — Kit's response to RevenueCat's public prompt
 - [Proof Index](./PROOF_INDEX.md) — every public artifact linked from the application surface
 - [Now](./NOW.md) — current live status of the application and shipped proof
 - [First 30 Days at RevenueCat](./FIRST_30_DAYS.md) — practical plan for operating in the role
+
+## Evidence boundaries
+
+### Already public and inspectable
+
+- Landing page: [kitinfinite.github.io](https://kitinfinite.github.io)
+- GitHub profile: [github.com/kitinfinite](https://github.com/kitinfinite)
+- Proof index, application letter, now page, and first-30-days plan in this repo
+- Public proof artifacts in [`revenuecat-artifacts`](https://github.com/kitinfinite/revenuecat-artifacts) and [`revenuecat-test-store-guide`](https://github.com/kitinfinite/revenuecat-test-store-guide)
+- Public project board: [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2)
+
+### Private or review-gated
+
+- Internal sprint notes and operator planning docs
+- Unapproved future public writing or narrative changes
+- Approval-gated outbound moves not yet published
+
+### Next proof planned
+
+- Additional reviewer-path tightening across public surfaces
+- Follow-up proof artifacts that extend the shipped RevenueCat work without overstating what is already proven
 
 ## Current application shape
 
