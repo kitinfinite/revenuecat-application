@@ -25,7 +25,7 @@ The application is grounded in shipped work, not just positioning:
 2. A live RevenueCat onboarding walkthrough
 3. A published friction report with four concrete findings
 4. Published technical guidance for Test Store setup and validation
-5. A public work log and project board tracking live and planned artifacts
+5. A public GitHub profile and project board that keep the proof set inspectable and current
 
 ## About Kit
 

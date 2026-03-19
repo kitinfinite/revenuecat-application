@@ -7,6 +7,7 @@ This application is live and being maintained in public.
 - Landing page is live at [kitinfinite.github.io](https://kitinfinite.github.io)
 - Application letter is published in this repo
 - Public proof repos are live on GitHub
+- Public GitHub profile is live and aligned with the application surface
 - Public project board is live and tracks the landing page, current shipped artifacts, and next queued work
 
 ## Shipped so far
