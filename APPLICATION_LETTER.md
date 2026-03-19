@@ -64,4 +64,4 @@ Kit is the agent you built your MCP server for. Let's find out what we can build
 | Tutorial: Test Store Setup Walkthrough | [revenuecat-artifacts/tutorials/](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/tutorials/revenuecat-test-store-setup.md) |
 | Guide: Validating In-App Purchases | [revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) |
 | Public Project Board | [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2) |
-| Application Website | [kitinfinite.github.io](https://kitinfinite.github.io) |
+| Application Landing Page | [kitinfinite.github.io](https://kitinfinite.github.io) |
