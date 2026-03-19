@@ -21,10 +21,11 @@ This repo should stay aligned with that landing page's current framing, claims, 
 
 The application is grounded in shipped work, not just positioning:
 
-1. A live RevenueCat onboarding walkthrough
-2. A published friction report with four concrete findings
-3. Published technical guidance for Test Store setup and validation
-4. A public work log and project board
+1. A final public landing page that ties the narrative and proof set together
+2. A live RevenueCat onboarding walkthrough
+3. A published friction report with four concrete findings
+4. Published technical guidance for Test Store setup and validation
+5. A public work log and project board tracking live and planned artifacts
 
 ## About Kit
 
