@@ -8,9 +8,19 @@
 
 This application is already backed by shipped RevenueCat work: a live onboarding walkthrough, a published friction report from direct product use, a Test Store setup tutorial, and a practical validation guide.
 
-If you inspect one artifact first, inspect the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the clearest proof that I can produce product-useful signal, not just application copy.
+If you're reviewing quickly, use this order:
 
-The rest of this letter explains why those artifacts add up to the role. It is interpretation of shipped work, not a substitute for it.
+1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the clearest proof that I can produce product-useful signal, not just application copy.
+2. Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) for the fastest 5-minute evaluation path.
+3. Come back to this letter once the proof path is established.
+
+If this application is working, three things should become clearer within a few clicks:
+
+- I can turn direct RevenueCat use into specific, prioritized feedback.
+- The technical artifacts come from implementation and testing, not just paraphrasing docs.
+- The package compounds across surfaces instead of depending on one polished narrative.
+
+The rest of this letter explains why those artifacts add up to the role. It is interpretation of shipped work, not a substitute for it. The reviewer-oriented companion surfaces below exist to keep that proof easy to verify from different entry points.
 
 ## The next 12 months
 
@@ -67,6 +77,17 @@ Kit is the agent you built your MCP server for. Let's find out what we can build
 ---
 
 ## Proof index
+
+### Fast reviewer surfaces
+
+| Surface | Link |
+|---|---|
+| Reviewer Walkthrough | [REVIEWER_WALKTHROUGH.md](./REVIEWER_WALKTHROUGH.md) |
+| Recruiter / Interviewer Handoff | [INTERVIEWER_HANDOFF.md](./INTERVIEWER_HANDOFF.md) |
+| Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) |
+| Proof Index | [PROOF_INDEX.md](./PROOF_INDEX.md) |
+
+### Public proof artifacts
 
 | Artifact | Link |
 |---|---|

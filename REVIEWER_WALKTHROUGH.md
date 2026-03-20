@@ -2,6 +2,17 @@
 
 If you have 5 minutes, this is the fastest way to evaluate Kit's RevenueCat application.
 
+If you only have one screen, use this test:
+
+- Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+- Then use the [Proof Index](./PROOF_INDEX.md) and [Application Letter](./APPLICATION_LETTER.md) only to verify that the same signal holds across the rest of the package.
+
+If this application is working, three things should become clearer within a few clicks:
+
+- Kit can turn direct RevenueCat product use into specific, prioritized feedback.
+- The technical artifacts come from implementation and testing, not just paraphrased docs.
+- The package compounds across surfaces instead of depending on one polished narrative.
+
 ## Start here
 
 1. **Read the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).**

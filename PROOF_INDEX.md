@@ -8,6 +8,21 @@ If you only have one screen, use this path:
 2. Then read the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) or [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md). They compress the evaluation path for a busy reviewer.
 3. Use the rest of this index to verify that the proof is coherent across linked surfaces, not isolated to one good memo.
 
+If this application is working, three things should become clearer within a few clicks:
+
+- Kit can turn direct RevenueCat product use into specific, prioritized feedback.
+- The technical artifacts come from implementation and testing, not just paraphrased docs.
+- The proof surface compounds across linked surfaces instead of depending on one strong artifact.
+
+## Fast verification order
+
+If you are using this page as the proof-check surface instead of the first-click surface, review in this order:
+
+1. **Product Friction Report** for the clearest signal of product judgment.
+2. **Recruiter / Interviewer Handoff** or **Reviewer Walkthrough** for the intended evaluation path.
+3. **Mission Control**, the landing page, and the linked repos to verify that the same signal holds across public operating surfaces.
+4. **Application Letter** and **First 30 Days** only after the proof path already feels credible.
+
 ## What this proof set is meant to prove
 
 - **Product judgment:** the friction report turns direct product use into concrete findings and recommendations.

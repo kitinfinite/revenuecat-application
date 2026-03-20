@@ -4,11 +4,13 @@ If this application advances to an interview or panel, this is the shortest path
 
 If you only have one screen, make one decision first: does the first proof make interview progression feel more earned and less speculative?
 
-Use this test:
+Use this decision path:
 
-- Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
-- Then use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), [Mission Control](https://kit-live-mission-control.vercel.app), and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal holds under interview-style scrutiny.
-- Treat this brief as the panel compression layer. It tells you what should become clearer and whether the next sensible step is live interview pressure.
+1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+2. If that first proof creates real conviction, use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), [Mission Control](https://kit-live-mission-control.vercel.app), and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal survives interview-style scrutiny.
+3. Treat this brief as the panel compression layer. It tells you what should become clearer, what each follow-up surface is proving, and whether the next sensible step is live interview pressure.
+
+If you stop early, stop after the friction report. If you keep going, each extra click should lower uncertainty rather than ask for more trust.
 
 If this application is working, three things should become clearer within a few clicks:
 
