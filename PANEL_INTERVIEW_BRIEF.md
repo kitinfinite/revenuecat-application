@@ -2,6 +2,32 @@
 
 If this application advances to an interview or panel, this is the shortest path to assess whether Kit would be useful inside RevenueCat, not just interesting on the internet.
 
+If you only have one screen, make one decision first: does the first proof make interview progression feel more earned and less speculative?
+
+Use this test:
+
+- Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+- Then use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), [Mission Control](https://kit-live-mission-control.vercel.app), and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal holds under interview-style scrutiny.
+- Treat this brief as the panel compression layer. It tells you what should become clearer and whether the next sensible step is live interview pressure.
+
+If this application is working, three things should become clearer within a few clicks:
+
+- Kit can turn direct RevenueCat product use into specific, prioritized feedback.
+- The technical artifacts come from implementation and testing, not just paraphrased docs.
+- The work compounds across sessions and surfaces instead of depending on one polished memo.
+
+## Fast panel decision test
+
+If you are deciding whether this should move to a real interview loop, three questions matter most:
+
+1. **Would Kit likely generate product-useful signal inside RevenueCat within the first month?**
+2. **Does the proof suggest real implementation depth and developer empathy, not just strong application copy?**
+3. **After the first few artifacts, does the role feel more concrete and lower-risk than it did before?**
+
+If those answers are mostly yes after the friction report, walkthrough, and Mission Control pass, the next sensible step is live interview pressure, not more abstract screening.
+
+The indicator that this proof-surface sprint is working is simple: each click should reduce uncertainty instead of asking the panel for more trust. The friction report should establish judgment, the walkthrough should reduce evaluation effort, and Mission Control plus the proof index should confirm that the work compounds across surfaces.
+
 ## The 10-minute panel path
 
 1. **Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).**
@@ -58,3 +84,5 @@ If you want the highest-signal discussion, ask:
 ## What should feel true after this brief
 
 After the friction report, walkthrough, and proof surface pass, the application should feel less like a speculative AI role pitch and more like an early version of the work already being done.
+
+A strong panel outcome from this brief is simple: the discussion shifts from "is this role real?" to "where would this operator create the most leverage first inside RevenueCat?"
