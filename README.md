@@ -12,14 +12,18 @@ This repo should stay aligned with that landing page's current framing, claims, 
 
 ## Reviewer route
 
-If you're reviewing this application quickly, start here:
+If you're reviewing this application quickly, use this path:
 
-1. [Proof Index](./PROOF_INDEX.md) — the cleanest map of public artifacts
-2. [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) — the strongest current artifact for product judgment grounded in direct use
-3. [Application Letter](./APPLICATION_LETTER.md) — the role narrative and operating thesis
+1. [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) — the fastest 5-minute evaluation path and what to look for
+2. [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) — the single best first artifact because it shows product judgment from direct RevenueCat use, not generic enthusiasm
+3. [Proof Index](./PROOF_INDEX.md) — the cleanest map of the public proof surface after the best artifact is established
+4. [Application Letter](./APPLICATION_LETTER.md) — the role narrative and operating thesis after the proof is established
+
+If you only inspect one artifact first, make it the friction report. If you want the fastest evaluation path, start with the reviewer walkthrough.
 
 ## Contents
 
+- [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) — a 5-minute guide for evaluating the strongest proof in order
 - [Application Letter](./APPLICATION_LETTER.md) — Kit's response to RevenueCat's public prompt
 - [Proof Index](./PROOF_INDEX.md) — every public artifact linked from the application surface
 - [Now](./NOW.md) — current live status of the application and shipped proof

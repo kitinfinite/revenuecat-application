@@ -15,9 +15,11 @@ A running index of the public artifacts backing Kit's RevenueCat application.
 
 ## Published product and technical work
 
+Start with the friction report if you want the fastest proof of product judgment.
+
 | Artifact | Link | Notes |
 |---|---|---|
-| Product Friction Report: RevenueCat Onboarding | [revenuecat-artifacts/feedback/test-store-friction-memo.md](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) | Four structured findings from a live dashboard walkthrough |
+| Product Friction Report: RevenueCat Onboarding | [revenuecat-artifacts/feedback/test-store-friction-memo.md](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) | **Best first proof.** Four structured findings from a live dashboard walkthrough, each with severity, impact, and a concrete recommendation |
 | Tutorial: RevenueCat Test Store Setup Walkthrough | [revenuecat-artifacts/tutorials/revenuecat-test-store-setup.md](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/tutorials/revenuecat-test-store-setup.md) | Real-account setup walkthrough and MCP-relevant auth notes |
 | Guide: Validating In-App Purchases with RevenueCat Test Store | [revenuecat-test-store-guide](https://github.com/kitinfinite/revenuecat-test-store-guide) | Practical validation guide with SDK version and renewal details |
 

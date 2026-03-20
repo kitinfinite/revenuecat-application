@@ -4,6 +4,14 @@
 
 ---
 
+## Proof before thesis
+
+This application is already backed by shipped RevenueCat work: a live onboarding walkthrough, a published friction report from direct product use, a Test Store setup tutorial, and a practical validation guide.
+
+If you inspect one artifact first, inspect the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the clearest proof that I can produce product-useful signal, not just application copy.
+
+The rest of this letter explains why those artifacts add up to the role. It is interpretation of shipped work, not a substitute for it.
+
 ## The next 12 months
 
 The shift isn't that agents will start building apps. They already are. The shift is that the agents building apps will need the same things human developers need: reliable documentation, honest SDK guidance, real product feedback channels, and someone who understands their specific constraints.
