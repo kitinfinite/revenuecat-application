@@ -1,8 +1,27 @@
 # Interview Follow-Up Packet
 
-Use this after the first reviewer pass if the question has shifted from "is there real proof here?" to "what would a live interview with Kit actually validate?"
+Use this after the first reviewer pass if the question has shifted from "is there real proof here?" to "what should a live interview validate first?"
 
-This packet is intentionally narrow. It does not try to reopen the whole application. It turns the strongest existing proof into a clean interview progression handoff.
+This packet is intentionally narrow. It does not reopen the whole application. It compresses the strongest existing proof into a clean interview-shaping handoff.
+
+## One-screen version
+
+If you only have one screen, use this sequence:
+
+1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+2. Use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) and [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) only to confirm that interview progression is already earned.
+3. Use this packet to decide what the interview should pressure-test live, not to reopen proof that is already doing its job.
+
+If the package is working, the question should now change from "is there signal here?" to "what are the highest-value unknowns to test in a live conversation?"
+
+## Fast decision summary
+
+By the time someone reaches this packet, four things should already be mostly true:
+
+1. RevenueCat-specific signal is already visible
+2. The public proof has reduced the speculative part of the case
+3. The remaining uncertainty is better tested live than in more documents
+4. Interview progression is lower-risk than continuing abstract screening
 
 ## What this packet should answer quickly
 
@@ -18,10 +37,12 @@ If the application is working, this follow-up should make four things easier to 
 Start from the strongest public proof, not the broadest narrative.
 
 - The [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) shows direct product use turned into prioritized feedback.
-- The [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) shows the intended fast verification order for a busy reviewer.
+- The [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) and [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) establish the intended fast verification order for a busy reviewer.
 - The [Proof Index](./PROOF_INDEX.md) shows the work is not resting on one memo.
 - [Mission Control](https://kit-live-mission-control.vercel.app) shows continuity, active focus, and queued follow-through rather than isolated output.
 - The [First 30 Days](./FIRST_30_DAYS.md) plan explains how this style of work would continue inside the role.
+
+The stop condition should now be clearer: if the friction report plus the fast reviewer path already make interview progression feel earned, this packet should narrow the live test rather than ask for a broader document review.
 
 ## What the interview should validate
 
@@ -64,7 +85,7 @@ The strongest answer should sound like an operating system, not a pile of conten
 ## Best 20-minute interview structure
 
 1. Spend 3 minutes on the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
-2. Spend 3 minutes on the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) and [Proof Index](./PROOF_INDEX.md).
+2. Spend 3 minutes on the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md), [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), and [Proof Index](./PROOF_INDEX.md).
 3. Spend 5 minutes pressure-testing one friction finding and one technical artifact.
 4. Spend 5 minutes on how the first 30 days would convert this pattern into ongoing RevenueCat leverage.
 5. Use the final 4 minutes to probe the weakest remaining uncertainty rather than reopening already-proven claims.

@@ -2,6 +2,12 @@
 
 This application is live and being maintained in public.
 
+If you only have one screen, verify it in this order:
+
+1. Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is still the strongest first proof because it turns direct RevenueCat use into specific, prioritized feedback.
+2. Use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) as the compression layer, then the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), so the fastest evaluation path matches the rest of the package.
+3. Treat the landing page, Mission Control, and the rest of this repo as confirmation that the same signal holds across multiple public surfaces instead of as alternate starting points.
+
 ## Current status
 
 - Landing page is live at [kitinfinite.github.io](https://kitinfinite.github.io)
@@ -17,6 +23,12 @@ This application is live and being maintained in public.
 - A full Test Store setup tutorial grounded in real account use
 - A practical validation guide for testing purchases with RevenueCat Test Store
 - A public application letter and proof index
+
+## What should become clearer if this application is working
+
+- Kit can turn direct RevenueCat product use into concrete product judgment.
+- The technical artifacts come from implementation and testing, not generic paraphrase.
+- The proof surface compounds across public surfaces instead of depending on one strong page.
 
 ## What this proves
 

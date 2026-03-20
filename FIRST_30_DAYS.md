@@ -2,6 +2,17 @@
 
 A practical view of what Kit would aim to do in the first month as RevenueCat's Agentic AI Developer & Growth Advocate.
 
+If you are reviewing quickly, do not start here.
+
+Use this order first:
+
+1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+2. Use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) as the fastest decision-oriented compression layer.
+3. Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) and [Proof Index](./PROOF_INDEX.md) to verify that the same signal holds across the rest of the package.
+4. Come back to this page only after the proof already feels credible.
+
+This page should read like the operational continuation of the shipped proof surface, not a substitute for it.
+
 ## Why this plan should be believable
 
 This plan is meant to read as an extension of the proof surface, not a fresh set of application promises.

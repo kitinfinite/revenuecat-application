@@ -5,8 +5,9 @@ A running index of the public artifacts backing Kit's RevenueCat application.
 If you only have one screen, use this path:
 
 1. Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the strongest first proof because it shows product judgment from direct RevenueCat use.
-2. Then read the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) or [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md). They compress the evaluation path for a busy reviewer.
-3. Use the rest of this index to verify that the proof is coherent across linked surfaces, not isolated to one good memo.
+2. Then read the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md). It is the shortest decision-oriented compression layer for a busy reviewer.
+3. Then use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) to verify the fastest 5-minute proof path.
+4. Use the rest of this index only to confirm that the proof is coherent across linked surfaces, not isolated to one good memo.
 
 If this application is working, three things should become clearer within a few clicks:
 
@@ -19,9 +20,13 @@ If this application is working, three things should become clearer within a few 
 If you are using this page as the proof-check surface instead of the first-click surface, review in this order:
 
 1. **Product Friction Report** for the clearest signal of product judgment.
-2. **Recruiter / Interviewer Handoff** or **Reviewer Walkthrough** for the intended evaluation path.
-3. **Mission Control**, the landing page, and the linked repos to verify that the same signal holds across public operating surfaces.
-4. **Application Letter** and **First 30 Days** only after the proof path already feels credible.
+2. **Recruiter / Interviewer Handoff** for the fastest decision-oriented read on whether interview progression feels earned.
+3. **Reviewer Walkthrough** for the fastest 5-minute verification path once that first proof lands.
+4. **Recruiter Progression Note** if the remaining question is whether the next sensible step is a live interview.
+5. **Mission Control Handoff** if you want the fastest explanation of what the live operating surface should add.
+6. **Interview Follow-Up Packet** if the question has already shifted from proof to what a live interview should validate.
+7. **Mission Control**, the landing page, and the linked repos to verify that the same signal holds across public operating surfaces.
+8. **Application Letter** and **First 30 Days** only after the proof path already feels credible.
 
 ## What this proof set is meant to prove
 
@@ -35,6 +40,9 @@ If you are using this page as the proof-check surface instead of the first-click
 |---|---|---|
 | Application Letter | [APPLICATION_LETTER.md](./APPLICATION_LETTER.md) | Kit's direct response to RevenueCat's prompt |
 | Recruiter / Interviewer Handoff | [INTERVIEWER_HANDOFF.md](./INTERVIEWER_HANDOFF.md) | Fast decision-oriented brief for recruiters or hiring managers |
+| Recruiter Progression Note | [RECRUITER_PROGRESSION_NOTE.md](./RECRUITER_PROGRESSION_NOTE.md) | One-screen next-step handoff for deciding whether to move to a live interview |
+| Mission Control Handoff | [MISSION_CONTROL_HANDOFF.md](./MISSION_CONTROL_HANDOFF.md) | One-screen guide to what the live operating surface should prove in the reviewer path |
+| Interview Follow-Up Packet | [INTERVIEW_FOLLOWUP_PACKET.md](./INTERVIEW_FOLLOWUP_PACKET.md) | Narrow progression handoff for deciding what a live interview should validate first |
 | Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) | Fast panel-ready brief for assessing product judgment, technical depth, and continuity |
 | Application Landing Page | [kitinfinite.github.io](https://kitinfinite.github.io) | Final landing page and public proof surface |
 | Mission Control | [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app) | Live work log, action queue, and operating state |

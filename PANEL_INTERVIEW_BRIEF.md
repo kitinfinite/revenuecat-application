@@ -7,8 +7,8 @@ If you only have one screen, make one decision first: does the first proof make 
 Use this decision path:
 
 1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
-2. If that first proof creates real conviction, use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), [Mission Control](https://kit-live-mission-control.vercel.app), and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal survives interview-style scrutiny.
-3. Treat this brief as the panel compression layer. It tells you what should become clearer, what each follow-up surface is proving, and whether the next sensible step is live interview pressure.
+2. If that first proof creates real conviction, use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) as the compression layer first, then the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md), then the [Proof Index](./PROOF_INDEX.md), then the [Recruiter Progression Note](./RECRUITER_PROGRESSION_NOTE.md), then the [Interview Follow-Up Packet](./INTERVIEW_FOLLOWUP_PACKET.md), then the [Mission Control Handoff](./MISSION_CONTROL_HANDOFF.md), and only then [Mission Control](https://kit-live-mission-control.vercel.app) as a confirmation surface. That keeps the panel path aligned with the same proof-first verification order used across the rest of the package and makes the live-interview decision explicit before the panel spends time on the operating surface.
+3. Treat this brief as the panel-stage compression layer. It tells you what should become clearer, what each follow-up surface is proving, and whether the next sensible step is live interview pressure instead of more abstract screening.
 
 If you stop early, stop after the friction report. If you keep going, each extra click should lower uncertainty rather than ask for more trust.
 
@@ -26,19 +26,27 @@ If you are deciding whether this should move to a real interview loop, three que
 2. **Does the proof suggest real implementation depth and developer empathy, not just strong application copy?**
 3. **After the first few artifacts, does the role feel more concrete and lower-risk than it did before?**
 
-If those answers are mostly yes after the friction report, walkthrough, and Mission Control pass, the next sensible step is live interview pressure, not more abstract screening.
+If those answers are mostly yes after the friction report, interviewer handoff, walkthrough, proof index, recruiter progression note, interview follow-up packet, and Mission Control confirmation pass, the next sensible step is live interview pressure, not more abstract screening.
 
-The indicator that this proof-surface sprint is working is simple: each click should reduce uncertainty instead of asking the panel for more trust. The friction report should establish judgment, the walkthrough should reduce evaluation effort, and Mission Control plus the proof index should confirm that the work compounds across surfaces.
+The indicator that this proof-surface sprint is working is simple: each click should reduce uncertainty instead of asking the panel for more trust. The friction report should establish judgment, the interviewer handoff should compress the decision, the walkthrough should reduce evaluation effort, the proof index should confirm that the broader surface stays coherent, the recruiter progression note should make the next-step decision feel explicit, the interview follow-up packet should narrow what a live conversation ought to validate first, and Mission Control should act as a final confirmation that the work compounds across sessions and surfaces.
 
 ## The 10-minute panel path
 
 1. **Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).**
    This is still the best first proof because it shows direct product use turned into prioritized, product-useful feedback.
-2. **Skim the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md).**
+2. **Skim the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md).**
+   This is the fastest compression layer for a busy panelist. It should make the next step feel like live interview pressure, not more abstract screening.
+3. **Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md).**
    This shows the intended evaluation order and what should become clearer if the application is working.
-3. **Use [Mission Control](https://kit-live-mission-control.vercel.app) and the [Proof Index](./PROOF_INDEX.md).**
-   Together they answer a different question: does the work compound across sessions and surfaces, or is there only one strong memo?
-4. **Read the [Application Letter](./APPLICATION_LETTER.md) last.**
+4. **Scan the [Proof Index](./PROOF_INDEX.md).**
+   This confirms that the broader proof surface stays coherent after the first proof, handoff, and walkthrough succeed.
+5. **Check the [Recruiter Progression Note](./RECRUITER_PROGRESSION_NOTE.md).**
+   This makes the next-step decision explicit without reopening the whole application narrative.
+6. **Read the [Interview Follow-Up Packet](./INTERVIEW_FOLLOWUP_PACKET.md).**
+   This tightens the live-interview question: what should a real conversation validate first if the package has already earned progression?
+7. **Use the [Mission Control Handoff](./MISSION_CONTROL_HANDOFF.md), then [Mission Control](https://kit-live-mission-control.vercel.app).**
+   This answers a later question: does the work compound across sessions and surfaces, or is there only one strong memo?
+8. **Read the [Application Letter](./APPLICATION_LETTER.md) last.**
    It should land as explanation of already-visible proof, not as a substitute for proof.
 
 ## What a panel should be testing

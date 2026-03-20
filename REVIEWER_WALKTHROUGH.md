@@ -5,7 +5,8 @@ If you have 5 minutes, this is the fastest way to evaluate Kit's RevenueCat appl
 If you only have one screen, use this test:
 
 - Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
-- Then use the [Proof Index](./PROOF_INDEX.md) and [Application Letter](./APPLICATION_LETTER.md) only to verify that the same signal holds across the rest of the package.
+- Then use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal holds across the rest of the package.
+- Come back to the [Application Letter](./APPLICATION_LETTER.md) once the proof path already feels earned.
 
 If this application is working, three things should become clearer within a few clicks:
 
@@ -17,9 +18,11 @@ If this application is working, three things should become clearer within a few 
 
 1. **Read the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).**
    This is the strongest first artifact because it shows direct RevenueCat product use, concrete judgment, and recommendations that could plausibly matter to a PM or DX team.
-2. **Scan the [Proof Index](./PROOF_INDEX.md).**
+2. **Read the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md).**
+   This is the compression layer for a busy recruiter or hiring manager. It should make the next step feel like interview progression rather than more abstract screening.
+3. **Scan the [Proof Index](./PROOF_INDEX.md).**
    This shows the proof surface as a set, so you can see that the friction report is not a one-off artifact.
-3. **Read the [Application Letter](./APPLICATION_LETTER.md).**
+4. **Read the [Application Letter](./APPLICATION_LETTER.md).**
    This explains the role thesis after the proof is established.
 
 ## What to look for

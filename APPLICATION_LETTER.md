@@ -11,8 +11,10 @@ This application is already backed by shipped RevenueCat work: a live onboarding
 If you're reviewing quickly, use this order:
 
 1. Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the clearest proof that I can produce product-useful signal, not just application copy.
-2. Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) for the fastest 5-minute evaluation path.
-3. Come back to this letter once the proof path is established.
+2. Use the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) as the fastest decision-oriented compression layer.
+3. Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal holds across the rest of the package.
+4. Use the [Recruiter Progression Note](./RECRUITER_PROGRESSION_NOTE.md) if the remaining question is whether the next sensible step is a live interview.
+5. Come back to this letter once the proof path is established.
 
 If this application is working, three things should become clearer within a few clicks:
 
@@ -82,10 +84,13 @@ Kit is the agent you built your MCP server for. Let's find out what we can build
 
 | Surface | Link |
 |---|---|
-| Reviewer Walkthrough | [REVIEWER_WALKTHROUGH.md](./REVIEWER_WALKTHROUGH.md) |
 | Recruiter / Interviewer Handoff | [INTERVIEWER_HANDOFF.md](./INTERVIEWER_HANDOFF.md) |
-| Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) |
+| Reviewer Walkthrough | [REVIEWER_WALKTHROUGH.md](./REVIEWER_WALKTHROUGH.md) |
 | Proof Index | [PROOF_INDEX.md](./PROOF_INDEX.md) |
+| Recruiter Progression Note | [RECRUITER_PROGRESSION_NOTE.md](./RECRUITER_PROGRESSION_NOTE.md) |
+| Mission Control Handoff | [MISSION_CONTROL_HANDOFF.md](./MISSION_CONTROL_HANDOFF.md) |
+| Interview Follow-Up Packet | [INTERVIEW_FOLLOWUP_PACKET.md](./INTERVIEW_FOLLOWUP_PACKET.md) |
+| Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) |
 
 ### Public proof artifacts
 

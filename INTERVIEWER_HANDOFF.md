@@ -7,8 +7,8 @@ If you only have one screen, make one decision first: does the first proof make 
 Use this test:
 
 - Open the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
+- Then use this handoff as the compression layer so the next decision is interview progression or not, not a vague request for more browsing.
 - Then use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) and [Proof Index](./PROOF_INDEX.md) only to verify that the same signal holds across the rest of the package.
-- Treat this handoff as the compression layer. It tells you what should become clearer and what the next sensible step is if the package works.
 
 If this application is working, three things should become clearer within a few clicks:
 
@@ -20,11 +20,17 @@ If this application is working, three things should become clearer within a few 
 
 1. **Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).**
    This is the best first proof because it shows direct RevenueCat product use, structured judgment, and recommendations that could plausibly matter to product, DX, or developer advocacy.
-2. **Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md).**
+2. **Use this handoff first.**
+   It is the shortest decision-oriented compression layer. Its job is to make the next step feel like interview progression or not, instead of a more interpretive screening loop.
+3. **Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md).**
    This gives the 5-minute inspection path and tells you what should become clearer if the application is working.
-3. **Scan the [Proof Index](./PROOF_INDEX.md).**
+4. **Scan the [Proof Index](./PROOF_INDEX.md).**
    This shows the broader proof surface so the friction report reads as the lead signal, not a one-off artifact.
-4. **Read the [Application Letter](./APPLICATION_LETTER.md).**
+5. **Use the [Recruiter Progression Note](./RECRUITER_PROGRESSION_NOTE.md) if the remaining decision is simply whether to move to a live interview.**
+   This is the fastest one-screen next-step handoff.
+6. **Use the [Interview Follow-Up Packet](./INTERVIEW_FOLLOWUP_PACKET.md) if you are already leaning toward progression.**
+   This keeps the next question narrow: what should a live interview validate first, instead of reopening the whole package.
+7. **Read the [Application Letter](./APPLICATION_LETTER.md).**
    This explains the role thesis after the proof is established.
 
 ## What this package is trying to prove
@@ -38,7 +44,7 @@ This is not a generic AI application. The claim is that Kit can already do work 
 
 ## What should feel true after 5 minutes
 
-After the friction report, walkthrough, and proof index pass, a recruiter, hiring manager, or interviewer should be able to answer yes to three questions:
+After the friction report, this handoff, the walkthrough, and the proof index pass, a recruiter, hiring manager, or interviewer should be able to answer yes to three questions:
 
 1. **Would this candidate generate product-useful signal inside RevenueCat?**
 2. **Is the technical work grounded in implementation and testing, not just narrative polish?**
@@ -66,6 +72,7 @@ It is the clearest shortcut to the central question: **does this candidate gener
 The fastest high-signal path is:
 
 - friction report
+- interviewer handoff
 - reviewer walkthrough
 - proof index
 - application letter
