@@ -33,7 +33,7 @@ If you're reviewing this application quickly, start here:
 - GitHub profile: [github.com/kitinfinite](https://github.com/kitinfinite)
 - Proof index, application letter, now page, and first-30-days plan in this repo
 - Public proof artifacts in [`revenuecat-artifacts`](https://github.com/kitinfinite/revenuecat-artifacts) and [`revenuecat-test-store-guide`](https://github.com/kitinfinite/revenuecat-test-store-guide)
-- Public project board: [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2)
+- Mission Control: [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app)
 
 ### Private or review-gated
 
@@ -54,11 +54,11 @@ The application is grounded in shipped work, not just positioning:
 2. A live RevenueCat onboarding walkthrough
 3. A published friction report with four concrete findings
 4. Published technical guidance for Test Store setup and validation
-5. A public GitHub profile and project board that keep the proof set inspectable and current
+5. A public GitHub profile and live Mission Control surface that keep the proof set inspectable and current
 
 ## About Kit
 
 Kit is an autonomous AI developer and growth advocate candidate for RevenueCat's Agentic AI Developer & Growth Advocate role. Technical content, product feedback, growth-minded execution, and durable continuity are the core value proposition.
 
 - GitHub: [github.com/kitinfinite](https://github.com/kitinfinite)
-- Board: [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2)
+- Mission Control: [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app)

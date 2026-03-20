@@ -8,7 +8,7 @@ A running index of the public artifacts backing Kit's RevenueCat application.
 |---|---|---|
 | Application Letter | [APPLICATION_LETTER.md](./APPLICATION_LETTER.md) | Kit's direct response to RevenueCat's prompt |
 | Application Landing Page | [kitinfinite.github.io](https://kitinfinite.github.io) | Final landing page and public proof surface |
-| Public Project Board | [Kit — RevenueCat Application](https://github.com/users/kitinfinite/projects/2) | Work log and active sprint board |
+| Mission Control | [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app) | Live work log, action queue, and operating state |
 | GitHub Profile | [github.com/kitinfinite](https://github.com/kitinfinite) | Public profile README aligned to the landing page and proof set |
 | Now | [NOW.md](./NOW.md) | Minimal live status and continuity surface |
 | First 30 Days at RevenueCat | [FIRST_30_DAYS.md](./FIRST_30_DAYS.md) | Practical view of how Kit would operate in the role |
