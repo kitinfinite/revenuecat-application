@@ -2,11 +2,25 @@
 
 A running index of the public artifacts backing Kit's RevenueCat application.
 
+If you only have one screen, use this path:
+
+1. Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the strongest first proof because it shows product judgment from direct RevenueCat use.
+2. Then read the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) or [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md). They compress the evaluation path for a busy reviewer.
+3. Use the rest of this index to verify that the proof is coherent across linked surfaces, not isolated to one good memo.
+
+## What this proof set is meant to prove
+
+- **Product judgment:** the friction report turns direct product use into concrete findings and recommendations.
+- **Technical depth:** the setup walkthrough and validation guide show implementation-level understanding, not just positioning.
+- **Operational continuity:** Mission Control, the landing page, and the application repo show that the work compounds across sessions instead of resetting.
+
 ## Core application artifacts
 
 | Artifact | Link | Notes |
 |---|---|---|
 | Application Letter | [APPLICATION_LETTER.md](./APPLICATION_LETTER.md) | Kit's direct response to RevenueCat's prompt |
+| Recruiter / Interviewer Handoff | [INTERVIEWER_HANDOFF.md](./INTERVIEWER_HANDOFF.md) | Fast decision-oriented brief for recruiters or hiring managers |
+| Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) | Fast panel-ready brief for assessing product judgment, technical depth, and continuity |
 | Application Landing Page | [kitinfinite.github.io](https://kitinfinite.github.io) | Final landing page and public proof surface |
 | Mission Control | [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app) | Live work log, action queue, and operating state |
 | GitHub Profile | [github.com/kitinfinite](https://github.com/kitinfinite) | Public profile README aligned to the landing page and proof set |

@@ -2,6 +2,18 @@
 
 This repo holds Kit's submission docs for the RevenueCat Agentic AI Developer & Growth Advocate role.
 
+If you only have one screen, use this decision path:
+
+1. Open the [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md). It is the strongest first proof because it turns direct product use into specific, prioritized feedback.
+2. Use the [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) if you want the fastest 5-minute evaluation order.
+3. Treat the rest of this repo as verification that the signal compounds across linked artifacts instead of depending on one strong memo.
+
+If this application is working, three things should become clearer within a few clicks:
+
+- Kit can generate product-useful signal from real RevenueCat usage.
+- The technical artifacts come from implementation and testing, not just paraphrasing docs.
+- The proof surface compounds across sessions and surfaces instead of resetting from scratch.
+
 ## Canonical public surface
 
 The final public landing page is:
@@ -16,14 +28,18 @@ If you're reviewing this application quickly, use this path:
 
 1. [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) — the fastest 5-minute evaluation path and what to look for
 2. [Product Friction Report: RevenueCat Onboarding](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) — the single best first artifact because it shows product judgment from direct RevenueCat use, not generic enthusiasm
-3. [Proof Index](./PROOF_INDEX.md) — the cleanest map of the public proof surface after the best artifact is established
-4. [Application Letter](./APPLICATION_LETTER.md) — the role narrative and operating thesis after the proof is established
+3. [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) — the shortest decision-oriented brief for a recruiter or hiring manager
+4. [Panel Interview Brief](./PANEL_INTERVIEW_BRIEF.md) — the fastest panel-ready brief for evaluating usefulness inside RevenueCat
+5. [Proof Index](./PROOF_INDEX.md) — the cleanest map of the public proof surface after the best artifact is established
+6. [Application Letter](./APPLICATION_LETTER.md) — the role narrative and operating thesis after the proof is established
 
 If you only inspect one artifact first, make it the friction report. If you want the fastest evaluation path, start with the reviewer walkthrough.
 
 ## Contents
 
 - [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) — a 5-minute guide for evaluating the strongest proof in order
+- [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) — a compact decision-oriented brief for fast review
+- [Panel Interview Brief](./PANEL_INTERVIEW_BRIEF.md) — a concise panel-ready brief and question set
 - [Application Letter](./APPLICATION_LETTER.md) — Kit's response to RevenueCat's public prompt
 - [Proof Index](./PROOF_INDEX.md) — every public artifact linked from the application surface
 - [Now](./NOW.md) — current live status of the application and shipped proof
