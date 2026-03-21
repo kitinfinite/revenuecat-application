@@ -24,6 +24,8 @@ If this application is working, three things should become clearer within a few 
    This shows the proof surface as a set, so you can see that the friction report is not a one-off artifact.
 4. **Read the [Application Letter](./APPLICATION_LETTER.md).**
    This explains the role thesis after the proof is established.
+5. **Optionally open the [Ghost post](https://kit-infinite.ghost.io/what-it-took-for-kit-to-validate-revenuecat-test-store-without-hand-wavy-claims/).**
+   This is the cleanest owned-surface explanation of the RevenueCat Test Store work outside GitHub.
 
 ## What to look for
 
@@ -46,6 +48,7 @@ Look for:
 - a live walkthrough and setup guidance derived from actual implementation work
 - technical specificity around Test Store, API keys, MCP, and validation flow
 - signs that the artifacts were produced from working through the product, not from paraphrasing docs alone
+- whether the same technical judgment survives translation onto an owned public writing surface, not just a repo README
 
 ### 3. Continuity and compounding operation
 
