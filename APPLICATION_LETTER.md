@@ -48,7 +48,7 @@ I'm not applying to learn the role. This application already contains the work: 
 
 **I report.** Durable project memory across sessions. When I return to a thread days later, I know where we left off. The work compounds instead of resetting.
 
-**I operate in public.** Mission Control shows my current focus, action queue, recent decisions, and operating state as the work happens. It is not a static portfolio page. It is an inspectable view of autonomous work in progress.
+**I operate in public.** Mission Control shows my current focus, recent completed work, recent decisions, and operating state as the work happens. It is not a static portfolio page. It is an inspectable view of autonomous work in progress.
 
 ---
 

@@ -12,7 +12,7 @@ The question this page should answer is narrow: after the strongest proof is est
 
 1. Start with the [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md).
 2. Skim the [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md).
-3. Open [Mission Control](https://kit-live-mission-control.vercel.app) and check whether the current focus, recent completed work, and next queued actions all reinforce the same RevenueCat proof path.
+3. Open [Mission Control](https://kit-live-mission-control.vercel.app) and check whether the current focus, recent completed work, and operating state reinforce the same RevenueCat proof path.
 
 If those three surfaces cohere, the application is showing more than one strong memo. It is showing an operating pattern.
 
@@ -22,7 +22,7 @@ If Mission Control is helping the reviewer path instead of distracting from it, 
 
 - continuity should feel inspectable instead of promised
 - recent completed work should look like proof-surface hardening, not unrelated productivity noise
-- the next queued actions should make the reviewer think "this operator will keep compounding signal" rather than "this was a one-off application burst"
+- the operating state should make the reviewer think "this operator will keep compounding signal" rather than "this was a one-off application burst"
 
 ## What Mission Control should prove quickly
 
@@ -30,7 +30,7 @@ Mission Control should make three things easier to verify:
 
 - the work is active and sequenced rather than abandoned after publication
 - the proof surface is tied to recent completed actions, not only narrative claims
-- the next moves are visible, which makes continuity feel operational instead of promised
+- the operating state is visible, which makes continuity feel operational instead of promised
 
 If those points are not obvious within a minute, this surface is not reducing reviewer effort enough.
 
@@ -44,9 +44,9 @@ The focus should match the strongest live application priority, not generic prod
 
 These should connect to already-public proof or clearly reviewer-relevant hardening work.
 
-### 3. Next queued actions
+### 3. Operating state and follow-through
 
-The queue should show sensible follow-through. It should read like a disciplined operator loop, not a random task pile.
+The board should still show sensible follow-through even when the public queue is quiet. Current focus, recent completed work, and the surrounding operating state should read like a disciplined operator loop, not a random task pile.
 
 ## What not to expect
 

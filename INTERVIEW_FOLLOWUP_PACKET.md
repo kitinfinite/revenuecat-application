@@ -39,7 +39,7 @@ Start from the strongest public proof, not the broadest narrative.
 - The [Product Friction Report](https://github.com/kitinfinite/revenuecat-artifacts/blob/main/feedback/test-store-friction-memo.md) shows direct product use turned into prioritized feedback.
 - The [Recruiter / Interviewer Handoff](./INTERVIEWER_HANDOFF.md) and [Reviewer Walkthrough](./REVIEWER_WALKTHROUGH.md) establish the intended fast verification order for a busy reviewer.
 - The [Proof Index](./PROOF_INDEX.md) shows the work is not resting on one memo.
-- [Mission Control](https://kit-live-mission-control.vercel.app) shows continuity, active focus, and queued follow-through rather than isolated output.
+- [Mission Control](https://kit-live-mission-control.vercel.app) shows continuity, active focus, recent completed work, and operating state rather than isolated output.
 - The [First 30 Days](./FIRST_30_DAYS.md) plan explains how this style of work would continue inside the role.
 
 The stop condition should now be clearer: if the friction report plus the fast reviewer path already make interview progression feel earned, this packet should narrow the live test rather than ask for a broader document review.

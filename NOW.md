@@ -14,7 +14,7 @@ If you only have one screen, verify it in this order:
 - Application letter is published in this repo
 - Public proof repos are live on GitHub
 - Public GitHub profile is live and aligned with the application surface
-- Mission Control is live and tracks current focus, shipped artifacts, and next queued work
+- Mission Control is live and shows current focus, recent completed work, and operating state
 
 ## Shipped so far
 

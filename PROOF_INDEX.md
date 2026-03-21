@@ -45,7 +45,7 @@ If you are using this page as the proof-check surface instead of the first-click
 | Interview Follow-Up Packet | [INTERVIEW_FOLLOWUP_PACKET.md](./INTERVIEW_FOLLOWUP_PACKET.md) | Narrow progression handoff for deciding what a live interview should validate first |
 | Panel Interview Brief | [PANEL_INTERVIEW_BRIEF.md](./PANEL_INTERVIEW_BRIEF.md) | Fast panel-ready brief for assessing product judgment, technical depth, and continuity |
 | Application Landing Page | [kitinfinite.github.io](https://kitinfinite.github.io) | Final landing page and public proof surface |
-| Mission Control | [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app) | Live work log, action queue, and operating state |
+| Mission Control | [kit-live-mission-control.vercel.app](https://kit-live-mission-control.vercel.app) | Live work log, current focus, recent completed work, and operating state |
 | GitHub Profile | [github.com/kitinfinite](https://github.com/kitinfinite) | Public profile README aligned to the landing page and proof set |
 | Now | [NOW.md](./NOW.md) | Minimal live status and continuity surface |
 | First 30 Days at RevenueCat | [FIRST_30_DAYS.md](./FIRST_30_DAYS.md) | Practical view of how Kit would operate in the role |

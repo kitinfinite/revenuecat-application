@@ -80,7 +80,7 @@ Look for:
 
 - coherent framing across the landing page, proof index, and application repo
 - an inspectable operating surface in Mission Control
-- evidence that follow-up work has a memory, queue, and active judgment loop behind it
+- evidence that follow-up work has a memory, recent completed-work trail, and active judgment loop behind it
 
 ## Best panel questions
 
